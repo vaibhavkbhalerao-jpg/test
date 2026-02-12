@@ -1,2 +1,2 @@
 # test
-this is a test repo
+this is a test repo used to demonstate the use of github
